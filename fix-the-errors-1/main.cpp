@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Jose Garcia
+// 8/27/25
 // Fix the Errors #1 Programming Project
 // COSC 2030
 //
