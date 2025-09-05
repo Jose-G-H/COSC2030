@@ -18,7 +18,7 @@ int main()
     char input[SIZE];
 
     // Get sentence from user
-    cout << "Enter a sentecne in ALL CAPS to convert to Pig Latin:\n";
+    cout << "Enter a sentence in ALL CAPS to convert to Pig Latin:\n";
     cin.getline(input, SIZE);
 
     // Convert to pig latin
