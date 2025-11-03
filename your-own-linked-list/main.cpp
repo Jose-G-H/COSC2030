@@ -29,7 +29,7 @@ public:
     ~LinkedList()
     {  destroyList();  }
 
-    // fucntion appends a node to the end 
+    // fucntion appends node to the end 
     void appendNode(int num)
     {
         ListNode *newNode;
